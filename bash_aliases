@@ -18,3 +18,7 @@ alias gutenberg-find-author='~/Tools/Scripts/gutenberg-find-author.R'
 alias gutenberg-find-text='~/Tools/Scripts/gutenberg-find-text.R'
 alias gutenberg-get='~/Tools/Scripts/gutenberg-get.R'
 alias gutenberg-strip='~/Tools/Scripts/gutenberg-strip.R'
+
+# File conversion
+
+alias text2bow='~Tools/Scripts/text2bow.sh'
